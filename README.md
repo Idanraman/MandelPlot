@@ -9,8 +9,8 @@ For more info about the Mandelbrot set - https://en.wikipedia.org/wiki/Mandelbro
 ## Examples
 
 <p align="center">
-  <img src="/Examples/1.png" width="250"><img src="/Examples/2.png" width="250"><img src="/Examples/3.png" width="250">
-  <img src="/Examples/4.png" width="250"><img src="/Examples/5.png" width="250"><img src="/Examples/6.png" width="250">
+  <img src="/Examples/1.png" width="250"> <img src="/Examples/2.png" width="250"> <img src="/Examples/3.png" width="250">
+  <img src="/Examples/4.png" width="250"> <img src="/Examples/5.png" width="250"> <img src="/Examples/6.png" width="250">
 </p>
 
 
